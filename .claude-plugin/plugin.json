@@ -1,0 +1,7 @@
+{
+  "name": "side-pane",
+  "version": "1.0.0",
+  "description": "Right-side pane for the Claude Code CLI: status figures, the agent's live plan, and an ASCII cat that winks and runs while Claude works",
+  "author": { "name": "Robert McCaleb" },
+  "types": "./types/index.d.ts"
+}

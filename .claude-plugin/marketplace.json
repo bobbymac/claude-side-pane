@@ -1,0 +1,14 @@
+{
+  "name": "side-pane",
+  "owner": {
+    "name": "Robert McCaleb"
+  },
+  "description": "Claude Code CLI side pane: status, live plan, and a winking, running ASCII cat",
+  "plugins": [
+    {
+      "name": "side-pane",
+      "source": "./",
+      "description": "Right-side pane for the Claude Code CLI: status figures, the agent's live plan, and an ASCII cat that winks and runs while Claude works"
+    }
+  ]
+}
